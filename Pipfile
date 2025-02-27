@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+selenium = ">=4.15.2"
+fake-useragent = ">=1.4.0"
+webdriver-manager = ">=4.0.1"
+python-dotenv = ">=1.0.0"
+bs4 = "*"
+pandas = "*"
+requests = "*"
+openpyxl = "*"
+scrapy = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.13"
