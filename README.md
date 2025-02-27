@@ -47,8 +47,9 @@ scrapy crawl jos
 - 标题（title）
 - 作者（authors）
 - 发布时间（publish_time）
-- DOI（doi）
 - 关键词（keywords）
+- 摘要（abstract）
+
 
 ## 注意事项
 
